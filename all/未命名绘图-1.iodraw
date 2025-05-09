@@ -151,7 +151,7 @@
             <mxPoint x="120" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="24MkikiiP5f0YDQKSDHG-53" value="" style="endArrow=none;html=1;rounded=0;entryX=0.15;entryY=1.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="24MkikiiP5f0YDQKSDHG-50">
+        <mxCell id="24MkikiiP5f0YDQKSDHG-53" value="" style="endArrow=none;html=1;rounded=0;entryX=0.15;entryY=1.025;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.64;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="24MkikiiP5f0YDQKSDHG-50" source="24MkikiiP5f0YDQKSDHG-56">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="120" y="500" as="sourcePoint" />
             <mxPoint x="160" y="470" as="targetPoint" />
@@ -163,20 +163,20 @@
             <mxPoint x="170" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="24MkikiiP5f0YDQKSDHG-55" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="24MkikiiP5f0YDQKSDHG-50">
+        <mxCell id="24MkikiiP5f0YDQKSDHG-55" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="24MkikiiP5f0YDQKSDHG-50" source="24MkikiiP5f0YDQKSDHG-58">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="440" as="sourcePoint" />
             <mxPoint x="-90" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="24MkikiiP5f0YDQKSDHG-56" value="所在区域" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="500" width="50" height="30" as="geometry" />
+          <mxGeometry x="90" y="510" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="24MkikiiP5f0YDQKSDHG-57" value="车位类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="510" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="24MkikiiP5f0YDQKSDHG-58" value="状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="420" width="50" height="30" as="geometry" />
+          <mxGeometry x="250" y="430" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="24MkikiiP5f0YDQKSDHG-59" value="车位编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="435" width="50" height="30" as="geometry" />
