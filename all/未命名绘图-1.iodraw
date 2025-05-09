@@ -298,7 +298,7 @@
         <mxCell id="24MkikiiP5f0YDQKSDHG-86" value="车位类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="450" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="24MkikiiP5f0YDQKSDHG-87" value="状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="24MkikiiP5f0YDQKSDHG-87" value="费用" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="380" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="24MkikiiP5f0YDQKSDHG-88" value="记录编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
