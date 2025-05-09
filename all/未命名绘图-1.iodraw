@@ -304,14 +304,8 @@
         <mxCell id="24MkikiiP5f0YDQKSDHG-88" value="记录编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="375" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="24MkikiiP5f0YDQKSDHG-89" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="24MkikiiP5f0YDQKSDHG-90">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="650" y="320" as="sourcePoint" />
-            <mxPoint x="670" y="370" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="24MkikiiP5f0YDQKSDHG-90" value="离场时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="645" y="300" width="50" height="30" as="geometry" />
+          <mxGeometry x="695" y="300" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="24MkikiiP5f0YDQKSDHG-93" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="24MkikiiP5f0YDQKSDHG-79">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -320,7 +314,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="24MkikiiP5f0YDQKSDHG-94" value="车位编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="310" width="50" height="30" as="geometry" />
+          <mxGeometry x="580" y="300" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
