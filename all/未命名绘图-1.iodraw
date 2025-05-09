@@ -245,7 +245,7 @@
           <mxGeometry x="460" y="190" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="24MkikiiP5f0YDQKSDHG-136" value="入场时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="180" width="50" height="30" as="geometry" />
+          <mxGeometry x="580" y="180" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="24MkikiiP5f0YDQKSDHG-137" value="费用" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="120" width="50" height="30" as="geometry" />
@@ -371,6 +371,12 @@
           <mxGeometry x="500" y="280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="24MkikiiP5f0YDQKSDHG-178" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="24MkikiiP5f0YDQKSDHG-153" target="24MkikiiP5f0YDQKSDHG-177">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="420" as="sourcePoint" />
+            <mxPoint x="500" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="24MkikiiP5f0YDQKSDHG-180" value="" style="endArrow=none;html=1;rounded=0;entryX=0.588;entryY=1.075;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="24MkikiiP5f0YDQKSDHG-177" target="24MkikiiP5f0YDQKSDHG-129">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="450" y="420" as="sourcePoint" />
             <mxPoint x="500" y="370" as="targetPoint" />
