@@ -48,9 +48,12 @@
           <mxGeometry x="389" y="120" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="24MkikiiP5f0YDQKSDHG-10" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="110" width="50" height="30" as="geometry" />
+          <mxGeometry x="200" y="100" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="24MkikiiP5f0YDQKSDHG-11" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="230" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="24MkikiiP5f0YDQKSDHG-12" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="230" width="60" height="50" as="geometry" />
         </mxCell>
       </root>
