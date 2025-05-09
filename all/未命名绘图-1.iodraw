@@ -74,10 +74,10 @@
           <mxGeometry x="250" y="200" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="24MkikiiP5f0YDQKSDHG-34" value="注册时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="240" width="50" height="30" as="geometry" />
+          <mxGeometry x="196.5" y="240" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="24MkikiiP5f0YDQKSDHG-35" value="车牌号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="250" width="50" height="30" as="geometry" />
+          <mxGeometry x="120" y="250" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="24MkikiiP5f0YDQKSDHG-36" value="手机号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="170" width="50" height="30" as="geometry" />
@@ -364,7 +364,7 @@
             <mxPoint x="142.5" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="24MkikiiP5f0YDQKSDHG-214" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="24MkikiiP5f0YDQKSDHG-214" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="24MkikiiP5f0YDQKSDHG-211" target="24MkikiiP5f0YDQKSDHG-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="450" y="520" as="sourcePoint" />
             <mxPoint x="500" y="470" as="targetPoint" />
