@@ -256,7 +256,7 @@
         <mxCell id="24MkikiiP5f0YDQKSDHG-77" value="用户编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="650" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="24MkikiiP5f0YDQKSDHG-78" value="手机号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="24MkikiiP5f0YDQKSDHG-78" value="投诉单编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="610" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="24MkikiiP5f0YDQKSDHG-79" value="停车记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
