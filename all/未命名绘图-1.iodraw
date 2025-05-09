@@ -373,56 +373,59 @@
         <mxCell id="24MkikiiP5f0YDQKSDHG-141" value="车位编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="40" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="24MkikiiP5f0YDQKSDHG-142" value="车位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="425" width="80" height="40" as="geometry" />
+        <mxCell id="24MkikiiP5f0YDQKSDHG-153" value="车位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="370" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="24MkikiiP5f0YDQKSDHG-143" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="24MkikiiP5f0YDQKSDHG-142">
+        <mxCell id="24MkikiiP5f0YDQKSDHG-154" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="24MkikiiP5f0YDQKSDHG-153">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="670" y="445" as="sourcePoint" />
-            <mxPoint x="460" y="425" as="targetPoint" />
+            <mxPoint x="580" y="390" as="sourcePoint" />
+            <mxPoint x="370" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="24MkikiiP5f0YDQKSDHG-144" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="24MkikiiP5f0YDQKSDHG-152" target="24MkikiiP5f0YDQKSDHG-142">
+        <mxCell id="24MkikiiP5f0YDQKSDHG-155" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="24MkikiiP5f0YDQKSDHG-164" target="24MkikiiP5f0YDQKSDHG-153">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="730" y="375" as="sourcePoint" />
-            <mxPoint x="710" y="395" as="targetPoint" />
+            <mxPoint x="640" y="320" as="sourcePoint" />
+            <mxPoint x="620" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="24MkikiiP5f0YDQKSDHG-145" value="" style="endArrow=none;html=1;rounded=0;entryX=0.15;entryY=1.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="24MkikiiP5f0YDQKSDHG-142">
+        <mxCell id="24MkikiiP5f0YDQKSDHG-156" value="" style="endArrow=none;html=1;rounded=0;entryX=0.15;entryY=1.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="24MkikiiP5f0YDQKSDHG-153">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="710" y="495" as="sourcePoint" />
-            <mxPoint x="750" y="465" as="targetPoint" />
+            <mxPoint x="620" y="440" as="sourcePoint" />
+            <mxPoint x="660" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="24MkikiiP5f0YDQKSDHG-146" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="24MkikiiP5f0YDQKSDHG-157" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="770" y="505" as="sourcePoint" />
-            <mxPoint x="760" y="465" as="targetPoint" />
+            <mxPoint x="680" y="450" as="sourcePoint" />
+            <mxPoint x="670" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="24MkikiiP5f0YDQKSDHG-147" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="24MkikiiP5f0YDQKSDHG-142">
+        <mxCell id="24MkikiiP5f0YDQKSDHG-158" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="24MkikiiP5f0YDQKSDHG-153">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="830" y="435" as="sourcePoint" />
-            <mxPoint x="500" y="465" as="targetPoint" />
+            <mxPoint x="740" y="380" as="sourcePoint" />
+            <mxPoint x="410" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="24MkikiiP5f0YDQKSDHG-148" value="所在区域" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="495" width="50" height="30" as="geometry" />
+        <mxCell id="24MkikiiP5f0YDQKSDHG-159" value="所在区域" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="440" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="24MkikiiP5f0YDQKSDHG-149" value="车位类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="505" width="50" height="30" as="geometry" />
+        <mxCell id="24MkikiiP5f0YDQKSDHG-160" value="车位类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="450" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="24MkikiiP5f0YDQKSDHG-150" value="状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="830" y="415" width="50" height="30" as="geometry" />
+        <mxCell id="24MkikiiP5f0YDQKSDHG-161" value="状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="360" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="24MkikiiP5f0YDQKSDHG-151" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="24MkikiiP5f0YDQKSDHG-152">
+        <mxCell id="24MkikiiP5f0YDQKSDHG-162" value="车位编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="375" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="24MkikiiP5f0YDQKSDHG-163" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="24MkikiiP5f0YDQKSDHG-164">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="730" y="375" as="sourcePoint" />
-            <mxPoint x="750" y="425" as="targetPoint" />
+            <mxPoint x="640" y="320" as="sourcePoint" />
+            <mxPoint x="660" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="24MkikiiP5f0YDQKSDHG-152" value="座位信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="355" width="50" height="30" as="geometry" />
+        <mxCell id="24MkikiiP5f0YDQKSDHG-164" value="座位信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="300" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
