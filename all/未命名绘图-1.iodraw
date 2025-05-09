@@ -64,7 +64,7 @@
         <mxCell id="24MkikiiP5f0YDQKSDHG-30" value="性別" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="80" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="24MkikiiP5f0YDQKSDHG-31" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="24MkikiiP5f0YDQKSDHG-31" value="邮箱" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="70" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="24MkikiiP5f0YDQKSDHG-32" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
