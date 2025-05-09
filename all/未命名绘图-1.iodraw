@@ -319,6 +319,9 @@
             <mxPoint x="630" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="24MkikiiP5f0YDQKSDHG-94" value="费用" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="390" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
