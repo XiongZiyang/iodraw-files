@@ -134,7 +134,7 @@
           <mxGeometry x="140" y="350" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="24MkikiiP5f0YDQKSDHG-62" value="投诉" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="580" width="80" height="40" as="geometry" />
+          <mxGeometry x="400" y="570" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="24MkikiiP5f0YDQKSDHG-63" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
